@@ -12,9 +12,9 @@ Implementing ML-based credit card approval systems revolutionizes banking operat
 Our approach addresses gaps in traditional credit evaluation methods by harnessing ML and advanced technology. It can adapt and improve over time, accommodating new data and insights. This scalability makes it invaluable for Indian banks and others, ensuring better loan decisions and risk management.
 
 ## Initial Hypotheses:
-Hypothesis 1: Income type, annual income, education level, age, and experience are crucial for predicting credit card approval.
-Hypothesis 2: Ownership of assets like cars and properties, along with family size, may influence credit card approval.
-Hypothesis 3: Demographic factors such as gender, marital status, and housing type might also impact credit card approval decisions.
+a. Hypothesis 1: Income type, annual income, education level, age, and experience are crucial for predicting credit card approval.
+b. Hypothesis 2: Ownership of assets like cars and properties, along with family size, may influence credit card approval.
+c. Hypothesis 3: Demographic factors such as gender, marital status, and housing type might also impact credit card approval decisions.
 
 ## Data Analysis Approach:
 1. Approach: Conduct univariate, bivariate, and multivariate analyses to understand feature-target relationships. Use statistical tests like T-tests and chi-square to validate hypotheses.
